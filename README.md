@@ -12,7 +12,7 @@ Implementar el control de versiones con Git/GitHub y diseñar el prototipo del p
 
 ### 🔗 Enlaces del proyecto
 - Tablero Jira (Proyecto MAT): [Pega aquí el enlace que te dio el docente]
-- Prototipo Figma: [Lo pondrás cuando termines el diseño]
+- Prototipo Figma: [https://www.figma.com/board/W55aBQNqr62goLaB0gKuhr/Welcome-to-FigJam?node-id=0-1&t=E9CisWdqWABFBEi1-1]
 
 ### 📋 Tabla de Trazabilidad
 | Incidencia Jira | Rama creada | Pull Request | Pantalla relacionada |

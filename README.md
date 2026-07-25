@@ -3,22 +3,21 @@
 
 ### 🎯 Objetivo
 Implementar el control de versiones con Git/GitHub y diseñar el prototipo del proceso de matrícula en línea de la Universidad Agraria del Ecuador.
+*Trabajo individual - se asumen todos los roles del grupo.*
 
 ### 👥 Integrantes y Roles
 | Nombre completo | Rol asignado |
 |---|---|
-| [Tu nombre y apellido] | Administrador del repositorio |
-| [Nombre compañero 1] | Desarrollador: Inicio de sesión |
-| [Nombre compañero 2] | Desarrollador: Selección de materias |
-| [Nombre compañero 3] | Diseñador / Desarrollador: Resumen de matrícula |
+| **Tu nombre y apellido** | Administrador + Desarrollador + Diseñador |
 
 ### 🔗 Enlaces del proyecto
 - Tablero Jira (Proyecto MAT): [Pega aquí el enlace que te dio el docente]
-- Prototipo Figma: [Lo pondremos cuando terminemos de diseñar]
+- Prototipo Figma: [Lo pondrás cuando termines el diseño]
 
 ### 📋 Tabla de Trazabilidad
 | Incidencia Jira | Rama creada | Pull Request | Pantalla relacionada |
 |---|---|---|---|
-| MAT-__ | feature/MAT-__-login | PR #__ | Inicio de sesión |
-| MAT-__ | feature/MAT-__-materias | PR #__ | Selección de asignaturas |
-| MAT-__ | feature/MAT-__-confirmacion | PR #__ | Resumen y confirmación |
+| MAT-01 | feature/MAT-01-inicio-sesion | PR #1 | Inicio de sesión |
+| MAT-02 | feature/MAT-02-seleccion-materias | PR #2 | Selección de asignaturas |
+| MAT-03 | feature/MAT-03-confirmacion | PR #3 | Resumen y confirmación |
+| MAT-04 | feature/conflicto-resuelto | PR #4 | Actualización README |

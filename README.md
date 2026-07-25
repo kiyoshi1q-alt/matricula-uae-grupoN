@@ -6,9 +6,9 @@ Implementar el control de versiones con Git/GitHub y diseñar el prototipo del p
 *Trabajo individual - se asumen todos los roles del grupo.*
 
 ### 👥 Integrantes y Roles
-| Nombre completo | Rol asignado |
+| Flores joan francisco | Rol asignado |
 |---|---|
-| **Tu nombre y apellido** | Administrador + Desarrollador + Diseñador |
+| **Flores joan francisco** | Administrador + Desarrollador + Diseñador |
 
 ### 🔗 Enlaces del proyecto
 - Tablero Jira (Proyecto MAT): [Pega aquí el enlace que te dio el docente]

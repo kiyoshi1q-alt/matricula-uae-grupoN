@@ -21,4 +21,3 @@ Implementar el control de versiones con Git/GitHub y diseñar el prototipo del p
 | MAT-02 | feature/MAT-02-seleccion-materias | PR #2 | Selección de asignaturas |
 | MAT-03 | feature/MAT-03-confirmacion | PR #3 | Resumen y confirmación |
 | MAT-04 | feature/conflicto-resuelto | PR #4 | Actualización README |
-Cambio de texto versión A
